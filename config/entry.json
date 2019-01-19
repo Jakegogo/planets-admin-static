@@ -1,0 +1,11 @@
+[
+  {
+    "name": "main",
+    "title": "主页面",
+    "js":"./src/main.js",
+    "url":"index.html",
+    "template":"src/index.html",
+    "chunks":[]
+  }
+
+]
