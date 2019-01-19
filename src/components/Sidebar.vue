@@ -234,8 +234,8 @@
     padding: 0;
   }
   #sidebar-menu {
-    overflow-y: scroll;
     height: 90%;
+    /*overflow-y: auto;*/
   }
   /* for Chrome */
   #sidebar-menu::-webkit-scrollbar {

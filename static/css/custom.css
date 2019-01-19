@@ -98,6 +98,14 @@
     margin-bottom: 5px;
 }
 
+.nav-sm .nav.side-menu .child_menu li a i {
+  font-size: 25px !important;
+  text-align: center;
+  width: 20% !important;
+  margin-bottom: 5px;
+  display: inline-block;
+}
+
 .nav-sm ul.nav.child_menu {
     left: 100%;
     position: absolute;
